@@ -10,10 +10,10 @@ GitHub Organizations
 |  | Organization | Details |
 | :-: | :-- | :-- |
 | <img src="https://avatars2.githubusercontent.com/u/42485081?s=200&v=4" height="16"> | [Red Van Workshop](https://github.com/redvanworkshop) | This is where I work Full Time as an SFCC Developer |
-| <img src="https://avatars2.githubusercontent.com/u/22258464?s=200&v=4" height="16"> | [StayWoke](https://github.com/staywoke) | Lead Engineer & Planning Team Member |
-| <img src="https://avatars1.githubusercontent.com/u/19274654?s=200&v=4" height="16"> | [CampaignZero](https://github.com/campaignzero) | Lead Engineer & Planning Team Member |
-| <img src="https://avatars2.githubusercontent.com/u/24560392?s=200&v=4" height="16"> | [Civil Services](https://github.com/CivilServiceUSA) | Founder & Lead Engineer |
-| <img src="https://avatars2.githubusercontent.com/u/20069956?s=200&v=4" height="16"> | [ACLU](https://github.com/ACLU-Foundation-of-Connecticut) | Senior Software Engineer |
+| <img src="https://avatars2.githubusercontent.com/u/22258464?s=200&v=4" height="16"> | [StayWoke](https://github.com/staywoke) | Lead Engineer & Planning Team Member _( Side Project )_ |
+| <img src="https://avatars1.githubusercontent.com/u/19274654?s=200&v=4" height="16"> | [CampaignZero](https://github.com/campaignzero) | Lead Engineer & Planning Team Member _( Side Project )_ |
+| <img src="https://avatars2.githubusercontent.com/u/24560392?s=200&v=4" height="16"> | [Civil Services](https://github.com/CivilServiceUSA) | Founder & Lead Engineer _( Side Project )_ |
+| <img src="https://avatars2.githubusercontent.com/u/20069956?s=200&v=4" height="16"> | [ACLU](https://github.com/ACLU-Foundation-of-Connecticut) | Senior Software Engineer _( Side Project )_ |
 
 Recent Projects
 ---
