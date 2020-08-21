@@ -23,7 +23,7 @@ Recent Projects
 |  | Project | Details |
 | :-: | :-- | :-- |
 | <img src="https://policescorecard.org/favicon.ico" height="16"> | [Police Scorecard Website & API](https://policescorecard.org/) | Developed using Nginx, PHP / Laravel, Node & MySQL |
-| <img src="https://civil.services/img/icons/favicon.ico" height="16"> | [Civil Service Website](https://civil.services) | Developed using Nginx, PHP / Laravel, Node, MySQL & Redis |
+| <img src="https://civil.services/img/icons/favicon.ico" height="16"> | [Civil Service Website & API](https://civil.services) | Developed using Nginx, PHP / Laravel, Node, MySQL & Redis |
 | <img src="https://redvanworkshop.gallerycdn.vsassets.io/extensions/redvanworkshop/explorer-exclude-vscode-extension/1.2.0/1562407479943/Microsoft.VisualStudio.Services.Icons.Default" height="16"> | [Explorer Exclude - VS Code Extension](https://marketplace.visualstudio.com/items?itemName=RedVanWorkshop.explorer-exclude-vscode-extension) | Developed using HTML, Scss/CSS & Javascript |
 | <img src="https://weatherbarapp.com/favicon.ico" height="16"> | [Weather Bar App](https://weatherbarapp.com/) | Developed using Node & Electron |
 | <img src="https://avatars2.githubusercontent.com/u/42485081?s=200&v=4" height="16"> | [CLI Accessibility Tester](https://github.com/redvanworkshop/accessibility-tester) | Developed using Node |
