@@ -1,5 +1,5 @@
 <a href="https://peterschmalfeldt.com">
-  <img width="100%" src="https://manifestinteractive-github.s3.us-east-1.amazonaws.com/github-header.jpg?v=1.0.0">
+  <img width="100%" src="https://manifestinteractive-github.s3.us-east-1.amazonaws.com/social-header.jpg">
 </a>
 
 GitHub Organizations
