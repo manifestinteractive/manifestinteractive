@@ -2,6 +2,8 @@
   <img width="100%" src="https://manifestinteractive-github.s3.us-east-1.amazonaws.com/social-header.jpg">
 </a>
 
+[![StackShare](https://img.shields.io/badge/Stack_Share-My_Dev%20%2f%20Design_Stack-0690fa.svg?style=for-the-badge&logo=stackshare&logoColor=ffffff&logoWidth=16)](https://stackshare.io/manifestinteractive/my-dev-and-design-stack)
+
 GitHub Organizations
 ---
 
