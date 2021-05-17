@@ -2,7 +2,11 @@
   <img width="100%" src="https://manifestinteractive-github.s3.us-east-1.amazonaws.com/social-header.jpg">
 </a>
 
-[![StackShare](https://img.shields.io/badge/Stack_Share-My_Dev%20%2f%20Design_Stack-0690fa.svg?style=for-the-badge&logo=stackshare&logoColor=ffffff&logoWidth=16)](https://stackshare.io/manifestinteractive/dev-and-design)
+If you regularly use any of my Open Source GitHub projects and have a GitHub account, it would mean a lot to me personally if you nominated me to the GitHub Stars Program. 
+
+**I made it easy. Just click this link:**
+
+[![StackShare](https://img.shields.io/badge/GitHub_Stars-Nominate_Me-0690fa.svg?style=for-the-badge&logo=github&logoColor=ffffff&logoWidth=16)](https://stars.github.com/nominate/?data=508411,manifestinteractive,I%20regulary%20use%20and%20rely%20on%20his%20Open%20Source%20Projects)
 
 GitHub Organizations
 ---
