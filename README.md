@@ -15,7 +15,7 @@ Recent Projects
 
 |  | Project | Details |
 | :-: | :-- | :-- |
-| <img src="https://avatars.githubusercontent.com/u/10136042?s=16&v=4" height="16" width="16"> | [HOIHD [WIP]](https://github.com/noihd) | Developed using Nginx, PHP / Laravel, Node, MySQL & Scss/CSS |
+| <img src="https://avatars.githubusercontent.com/u/10136042?s=16&v=4" height="16" width="16"> | [NOIHD [WIP]](https://github.com/noihd) | Developed using Nginx, PHP / Laravel, Node, MySQL & Scss/CSS |
 | <img src="https://avatars.githubusercontent.com/u/19274654?s=16&v=4" height="16" width="16"> | [Police Scorecard Website & API](https://policescorecard.org/) | Developed using Nginx, PHP / Laravel, Node, MySQL & Scss/CSS |
 | <img src="https://civil.services/img/icons/favicon.ico" height="16" width="16"> | [Civil Service Website & API](https://civil.services) | Developed using Nginx, PHP / Laravel, Node, MySQL, Scss/CSS & Redis |
 | <img src="https://redvanworkshop.gallerycdn.vsassets.io/extensions/redvanworkshop/explorer-exclude-vscode-extension/1.2.0/1562407479943/Microsoft.VisualStudio.Services.Icons.Default" height="16" width="16"> | [Explorer Exclude - VS Code Extension](https://marketplace.visualstudio.com/items?itemName=RedVanWorkshop.explorer-exclude-vscode-extension) | Developed using HTML, Scss/CSS & Javascript |
