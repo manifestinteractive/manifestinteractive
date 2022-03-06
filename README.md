@@ -1,4 +1,4 @@
-![social-header](https://user-images.githubusercontent.com/508411/131420920-3ac3c84e-7493-4298-8fa4-65da28699fbb.png)
+![github-header](https://user-images.githubusercontent.com/508411/156939673-9fedcf63-3168-4f6a-8fbd-0575cc75c6ee.jpg)
 
 Recent Projects
 ---
