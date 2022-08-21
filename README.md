@@ -12,7 +12,7 @@ GitHub Organizations
 
 |  | Organization | Details |
 | :-: | :-- | :-- |
-| <img src="https://avatars.githubusercontent.com/u/106190714?s=200&v=4" height="16" width="16"> | [SFCC DevOps](https://github.com/sfccdevops) | Main Contributor and Maintainer of Open Source Projects for Salesforce Commerce Cloud Developers |
+| <img src="https://avatars.githubusercontent.com/u/106190714?s=200&v=4" height="16" width="16"> | [SFCC DevOps](https://github.com/sfccdevops) | Main Contributor and Maintainer |
 | <img src="https://avatars2.githubusercontent.com/u/20069956?s=200&v=4" height="16" width="16"> | [ACLU](https://github.com/ACLU-Foundation-of-Connecticut) | Senior Software Engineer |
 | <img src="https://avatars2.githubusercontent.com/u/24560392?s=200&v=4" height="16" width="16"> | [Civil Services](https://github.com/CivilServiceUSA) | Founder & Lead Engineer |
 | <img src="https://avatars.githubusercontent.com/u/93822465?s=200&v=4" height="16" width="16"> | [Police Scorecard](https://github.com/policescorecard) | Lead Engineer & Planning Team Member |
