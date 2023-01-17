@@ -1,4 +1,4 @@
-Support SFCC DevOps
+Support My Work
 ===
 
 If you or your company enjoy using my projects, please consider supporting my work and joining my discord. 💖
