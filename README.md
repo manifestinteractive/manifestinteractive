@@ -22,7 +22,7 @@ GitHub Organizations
 
 |  | Organization | Details |
 | :-: | :-- | :-- |
-| <img src="https://avatars.githubusercontent.com/u/106190714?s=200&v=4" height="16" width="16"> | [SFCC DevOps](https://github.com/sfccdevops) | Main Contributor and Maintainer |
+| <img src="https://avatars.githubusercontent.com/u/106190714?s=200&v=4" height="16" width="16"> | [SFCC DevOps](https://github.com/sfccdevops) | Founder, Main Contributor and Maintainer |
 | <img src="https://avatars.githubusercontent.com/u/93822465?s=200&v=4" height="16" width="16"> | [Police Scorecard](https://github.com/policescorecard) | Lead Engineer & Planning Team Member |
 | <img src="https://avatars.githubusercontent.com/u/10136042?s=16&v=4" height="16" width="16"> | [NOIHD](https://github.com/noihd) | Lead Engineer & Planning Team Member |
 
