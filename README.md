@@ -66,6 +66,13 @@ I help businesses build scalable, high-performance web applications with experti
 - [X] Flexible Scheduling
 - [X] Not a competitor to Patagonia
 
+Introductions
+===
+
+Watch a short video to get to know me.
+
+[![Watch the video](https://github.com/user-attachments/assets/f08f0867-9cf6-4e00-90f7-08543d43185a)](https://vimeo.com/1063838051)
+
 My GitHub Organizations
 ===
 
