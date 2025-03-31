@@ -14,7 +14,7 @@ I am a Senior Full-Stack Web Developer with over 25 years of experience. I have 
 
 I help businesses build scalable, high-performance web applications with expertise in AI-driven automation, full-stack development, and eCommerce solutions. I specialize in crafting custom applications, optimizing online stores, and integrating cutting-edge AI technologies to enhance user experiences and business operations.
 
-[![Website](https://img.shields.io/badge/Website-169BD7.svg?logo=samsclub&logoColor=white&style=for-the-badge "Website")](https://peterschmalfeldt.com) [![Resume](https://img.shields.io/badge/Resume-169BD7.svg?logo=googledocs&logoColor=white&style=for-the-badge "Resume")](https://resume.peterschmalfeldt.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-169BD7.svg?logo=googledocs&logoColor=white&style=for-the-badge "LinkedIn")]([https://www.paypal.me/manifestinteractive](https://www.linkedin.com/in/peter-schmalfeldt/))
+[![Website](https://img.shields.io/badge/Website-169BD7.svg?logo=samsclub&logoColor=white&style=for-the-badge "Website")](https://peterschmalfeldt.com) [![Resume](https://img.shields.io/badge/Resume-169BD7.svg?logo=googledocs&logoColor=white&style=for-the-badge "Resume")](https://resume.peterschmalfeldt.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-169BD7.svg?logo=googledocs&logoColor=white&style=for-the-badge "LinkedIn")](https://www.linkedin.com/in/peter-schmalfeldt/)
 
 **MY SERVICES:**
 
