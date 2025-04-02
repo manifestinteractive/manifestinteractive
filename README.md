@@ -16,9 +16,9 @@ If you or your company enjoy using my projects, please consider supporting my wo
 About Me
 ===
 
-Senior Full-Stack Web Developer – Font-end / Back-end Web Development, E-commerce & AI
+Senior Full-Stack Web Developer | AI &amp; Ecommerce
 
-I am a Senior Full-Stack Web Developer with over 25 years of experience. I have proven expertise in e-commerce, front-end and back-end development, and custom AI solutions. I am adept at delivering scalable, high-performance web applications.
+I am a Senior Full-Stack Developer with 25+ years of experience in Front-End, Back-End, and Ecommerce Development. Specializing in Commerce Cloud, Shopify, and AI-driven solutions including Chatbots and Speech-to-Text.
 
 I help businesses build scalable, high-performance web applications with expertise in AI-driven automation, full-stack development, and eCommerce solutions. I specialize in crafting custom applications, optimizing online stores, and integrating cutting-edge AI technologies to enhance user experiences and business operations.
 
