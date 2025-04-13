@@ -54,7 +54,7 @@ I am a Senior Full-Stack Web Developer with 25+ years of experience in Front-End
 
 ## 🎖️ Leadership
 
-The experiences outlined below highlight leadership skills developed through previous roles that have significantly shaped my leadership approach and capabilities.
+My earliest career experiences have significantly shaped my leadership approach and capabilities.
 
 ### Retail Store Management
 
