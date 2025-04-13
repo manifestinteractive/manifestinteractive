@@ -1,30 +1,18 @@
 Peter Schmalfeldt
 ---
 
-![personal-header](https://user-images.githubusercontent.com/508411/213852292-8a128a0a-4a4d-4fe0-a9bf-0e1683d29ec9.jpg)
-
-I use this GitHub account for my Open Source projects. For my day job, I use my **[@peter-schmalfeldt](https://github.com/peter-schmalfeldt)** GitHub account.
-
-Support My Work
-===
-
-If you or your company enjoy using my projects, please consider supporting my work. 💖
-
-[![Become a GitHub Sponsor](https://img.shields.io/badge/Sponsor-169BD7.svg?logo=github&logoColor=white&style=for-the-badge "Become a GitHub Sponsor")](https://github.com/sponsors/manifestinteractive)
-[![Donate via PayPal](https://img.shields.io/badge/Donate-169BD7.svg?logo=paypal&logoColor=white&style=for-the-badge "Donate via PayPal")](https://www.paypal.me/manifestinteractive)
+![personal-header](https://github.com/user-attachments/assets/8046671b-4064-487f-b01b-a79319cf33a4)
 
 About Me
 ===
 
-Senior Full-Stack Web Developer | AI &amp; Ecommerce
+**Senior Full-Stack Web Developer**
 
-I am a Senior Full-Stack Developer with 25+ years of experience in Front-End, Back-End, and Ecommerce Development. Specializing in Commerce Cloud, Shopify, and AI-driven solutions including Chatbots and Speech-to-Text.
-
-I help businesses build scalable, high-performance web applications with expertise in AI-driven automation, full-stack development, and eCommerce solutions. I specialize in crafting custom applications, optimizing online stores, and integrating cutting-edge AI technologies to enhance user experiences and business operations.
+I am a Senior Full-Stack Web Developer with 25+ years of experience in Front-End and Back-End Web Development.
 
 [![Website](https://img.shields.io/badge/Website-169BD7.svg?logo=samsclub&logoColor=white&style=for-the-badge "Website")](https://peterschmalfeldt.com) [![Resume](https://img.shields.io/badge/Resume-169BD7.svg?logo=googledocs&logoColor=white&style=for-the-badge "Resume")](https://resume.peterschmalfeldt.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-169BD7.svg?logo=googledocs&logoColor=white&style=for-the-badge "LinkedIn")](https://www.linkedin.com/in/peter-schmalfeldt/)
 
-**MY SERVICES:**
+**MY SKILLS:**
 
 ✅ Full Stack Development
 
@@ -65,13 +53,6 @@ I help businesses build scalable, high-performance web applications with experti
 - [X] Part-time (max 20 hrs/wk)
 - [X] Flexible Scheduling
 - [X] Not a competitor to Patagonia
-
-Introductions
-===
-
-Watch a short video to get to know me.
-
-[![Watch the video](https://github.com/user-attachments/assets/f08f0867-9cf6-4e00-90f7-08543d43185a)](https://vimeo.com/1063838051)
 
 My GitHub Organizations
 ===
