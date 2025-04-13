@@ -56,19 +56,19 @@ I am a Senior Full-Stack Web Developer with 25+ years of experience in Front-End
 
 The experiences outlined below highlight leadership skills developed through previous roles that have significantly shaped my leadership approach and capabilities.
 
-### Retail Management (Store Manager)
+### Retail Store Management
 
 Early in my career, I managed multiple retail locations—including Jarman, Journeys, Bakers, and Gadzooks—each team consisting of 8-10 associates. This role honed my abilities in team building, operational excellence, customer experience optimization, and performance management, creating foundational skills in cross-functional communication and personnel development.
 
-### Assembly Line Operations Management (SkyLine)
+### Assembly Line Operations Management
 
 As Manager at SkyLine, I led an assembly-line facility with approximately 90 team members. My responsibilities included optimizing production workflows and maintaining efficient operations. A unique aspect of this role was implementing programs to train and evaluate employees with mental and physical disabilities, successfully integrating diverse talent into cohesive, productive teams.
 
-### Mobile Development Team Leadership (Answers.com)
+### Mobile Development Team Leadership
 
 At Answers.com, I established and led the company's first mobile development team, directly managing eight developers. This strategic initiative significantly enhanced the company’s early adaptation to mobile technologies, enabling rapid growth in mobile web traffic. This role strengthened my capability to innovate, build technology solutions, and collaborate cross-departmentally to align technology initiatives with overall business objectives.
 
-### Chief Technology Officer (Enroll123)
+### Chief Technology Officer
 
 As CTO of Enroll123, a health insurance technology startup, I oversaw all technological operations, compliance initiatives (including HIPAA and HiTECH standards), and development strategies to effectively integrate Affordable Care Act solutions for health providers. My role required extensive coordination, strategic planning, and decisive leadership in a highly regulated environment, cementing my capability to lead high-impact technology initiatives within complex industries.
 
