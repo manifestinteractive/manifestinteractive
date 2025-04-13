@@ -62,7 +62,7 @@ Early in my career, I managed multiple retail locations—including Jarman, Jour
 
 ### Assembly Line Operations Management
 
-As Manager at SkyLine, I led an assembly-line facility with approximately 90 team members. My responsibilities included optimizing production workflows and maintaining efficient operations. A unique aspect of this role was implementing programs to train and evaluate employees with mental and physical disabilities, successfully integrating diverse talent into cohesive, productive teams.
+As Manager at SkyLine, I led an assembly-line facility with approximately 90 team members. My responsibilities included optimizing production workflows and ensuring operational efficiency. A unique aspect of this role involved implementing programs to train and support employees with disabilities—both cognitive and physical—successfully fostering an inclusive workplace and integrating diverse talent into high-performing teams.
 
 ### Mobile Development Team Leadership
 
