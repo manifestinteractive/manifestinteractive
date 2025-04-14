@@ -6,7 +6,7 @@
 
 **Senior Full-Stack Web Developer**
 
-I am a Senior Full-Stack Web Developer with 25+ years of experience in Front-End and Back-End Web Development.
+I am a Senior Full-Stack Developer with 25+ years of experience in Front-End and Back-End Web Development. My previous leadership roles have reinforced my ability to align technological initiatives with strategic business objectives, and foster inclusive, collaborative team environments.
 
 [![Website](https://img.shields.io/badge/Website-169BD7.svg?logo=samsclub&logoColor=white&style=for-the-badge "Website")](https://peterschmalfeldt.com) [![Resume](https://img.shields.io/badge/Resume-169BD7.svg?logo=googledocs&logoColor=white&style=for-the-badge "Resume")](https://resume.peterschmalfeldt.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-169BD7.svg?logo=googledocs&logoColor=white&style=for-the-badge "LinkedIn")](https://www.linkedin.com/in/peter-schmalfeldt/)
 
