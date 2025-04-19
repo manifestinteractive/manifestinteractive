@@ -32,7 +32,7 @@ I am a Senior Full-Stack Developer with 25+ years of experience in Front-End and
 - Salesforce Commerce Cloud Development
 - Shopify Development
 
-✅ Front-End Engineering
+✅ Front-End Development
 
 - Web Design (CSS, Scss, SaSS, Tailwind)
 - Frameworks (jQuery, Bootstrap, React, Next.js, Vue.js, Angular)
