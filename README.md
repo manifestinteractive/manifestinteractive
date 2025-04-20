@@ -44,13 +44,11 @@ I am a Senior Full-Stack Developer with 25+ years of experience in Front-End and
 - Databases (MySQL, PostgreSQL, Redis)
 - DevOps (AWS, Azure, CircleCI, CI/CD, GitHub)
 
-**OPEN TO PROJECTS:**
+✅ Productivity Tooling
 
-- [X] Contract-based
-- [X] Fully Remote
-- [X] Part-time (max 20 hrs/wk)
-- [X] Flexible Scheduling
-- [X] Not a competitor to Patagonia
+- Browser Extensions (Cross-Platform and Multi-Browser)
+- Dev Containers (VS Code and Docker Desktop)
+- VS Code Extensions (Productivity and Automation)
 
 ## 🎖️ Leadership
 
