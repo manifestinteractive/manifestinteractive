@@ -77,20 +77,19 @@ My GitHub Organizations
 
 I created and manage the following GitHub Orgs:
 
-|  | Organization | Role |
-| :-: | :-- | :-- |
-| <img src="https://avatars.githubusercontent.com/u/106190714?s=64&v=4" height="16" width="16"> | [SFCC DevOps](https://github.com/sfccdevops) | Main Contributor and Maintainer |
-| <img src="https://avatars.githubusercontent.com/u/151680118?s=64&v=4" height="16" width="16"> | [OpenSFCC](https://github.com/openscc) | Main Contributor and Maintainer |
-| <img src="https://avatars.githubusercontent.com/u/93822465?s=64&v=4" height="16" width="16"> | [Police Scorecard](https://github.com/policescorecard) | Main Contributor and Maintainer |
-
+|  | Organization | Role | Description |
+| :-: | :-- | :-- | :-- |
+| <img src="https://avatars.githubusercontent.com/u/106190714?s=64&v=4" height="16" width="16"> | [SFCC DevOps](https://github.com/sfccdevops) | Main Contributor | CLI Applications, VS Code Extensions and Browser Extensions. |
+| <img src="https://avatars.githubusercontent.com/u/151680118?s=64&v=4" height="16" width="16"> | [OpenSFCC](https://github.com/openscc) | Main Contributor | Open Source SFCC Projects |
+| <img src="https://avatars.githubusercontent.com/u/93822465?s=64&v=4" height="16" width="16"> | [Police Scorecard](https://github.com/policescorecard) | Main Contributor | Evaluates police departments based on quantitative data |
 
 Primary Contributions
 ===
 
 I was the main contributor to multiple projects on the following GitHub orgs:
 
-|  | Organization | Role |
-| :-: | :-- | :-- |
-| <img src="https://avatars2.githubusercontent.com/u/22258464?s=64&v=4" height="16" width="16"> | [StayWoke](https://github.com/staywoke) | Lead Engineer & Planning Team Member |
-| <img src="https://avatars1.githubusercontent.com/u/19274654?s=64&v=4" height="16" width="16"> | [CampaignZero](https://github.com/campaignzero) | Lead Engineer & Planning Team Member |
-| <img src="https://avatars.githubusercontent.com/u/10136042?s=64&v=4" height="16" width="16"> | [NOIHD](https://github.com/noihd) | Lead Engineer & Planning Team Member |
+|  | Organization | Role | Description |
+| :-: | :-- | :-- | :-- |
+| <img src="https://avatars2.githubusercontent.com/u/22258464?s=64&v=4" height="16" width="16"> | [StayWoke](https://github.com/staywoke) | Lead Engineer | Activism Platform Tools |
+| <img src="https://avatars1.githubusercontent.com/u/19274654?s=64&v=4" height="16" width="16"> | [CampaignZero](https://github.com/campaignzero) | Lead Engineer | Activism Platform Tools |
+| <img src="https://avatars.githubusercontent.com/u/10136042?s=64&v=4" height="16" width="16"> | [NOIHD](https://github.com/noihd) | Lead Engineer | Custom DevOps Tooling |
