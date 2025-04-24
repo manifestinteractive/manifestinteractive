@@ -6,7 +6,7 @@
 
 **Senior Full-Stack Web Developer**
 
-I am a Senior Full-Stack Developer with 25+ years of experience in Front-End and Back-End Web Development. My previous leadership roles have reinforced my ability to align technological initiatives with strategic business objectives, and foster inclusive, collaborative team environments.
+My career has spanned everything from leading retail teams to building dev teams and architecting complex systems. I don’t just write code, I design solutions that align technology with real business needs. With experience in hands-on development, team leadership, and freelance consulting, I bring a well-rounded, practical approach to every project.
 
 [![Website](https://img.shields.io/badge/Website-169BD7.svg?logo=samsclub&logoColor=white&style=for-the-badge "Website")](https://peterschmalfeldt.com) [![Resume](https://img.shields.io/badge/Resume-169BD7.svg?logo=googledocs&logoColor=white&style=for-the-badge "Resume")](https://resume.peterschmalfeldt.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-169BD7.svg?logo=googledocs&logoColor=white&style=for-the-badge "LinkedIn")](https://www.linkedin.com/in/peter-schmalfeldt/)
 
@@ -50,28 +50,47 @@ I am a Senior Full-Stack Developer with 25+ years of experience in Front-End and
 - Dev Containers (VS Code and Docker Desktop)
 - VS Code Extensions (Productivity and Automation)
 
-## 🎖️ Leadership
+## ⭐️ Freelance Consulting
 
-My earliest career experiences have significantly shaped my leadership approach and capabilities.
+Over the years, I’ve partnered with companies of all sizes to help them move from idea to execution with clarity and confidence.
+
+### Development Team Foundation
+
+Startups often bring me in to lay the foundation for their development teams. I help set up effective workflows, document processes, streamline onboarding, and create a strong technical culture from day one. I typically take on a hands-on role early, then transition into an advisor as the internal team grows and takes ownership.
+
+### Custom Application Development
+
+When a client has a great idea but needs help building it, I provide full-cycle support. From discovery and planning to design, development, and deployment, I guide the entire process. With full-stack expertise, I help transform concepts into working, scalable web applications, guiding projects through key milestones in a practical, collaborative way.
+
+### Solutions Architect
+
+For companies facing complex technical or organizational challenges, I step in as a Solutions Architect. I lead discovery through empathy interviews, assess team dynamics, and map out clear technical strategies. My focus is on aligning departments, improving communication, and designing cross-functional solutions that are both practical and effective.
+
+### Rapid Prototyping & Innovation
+
+When clients need to move fast, I offer rapid prototyping services to help them test and validate ideas quickly. Through fast design cycles, real-time feedback, and iterative development, I help companies experiment efficiently. This process turns early concepts into actionable, tested solutions that accelerate innovation and reduce risk.
+
+## 🎖️ Leadership Background
+
+My early career experiences shaped my leadership style and professional strengths.
 
 ### Retail Store Management
 
-Early in my career, I managed multiple retail locations—including Jarman, Journeys, Bakers, and Gadzooks—each team consisting of 8-10 associates. This role honed my abilities in team building, operational excellence, customer experience optimization, and performance management, creating foundational skills in cross-functional communication and personnel development.
+Early on, I managed multiple retail stores, leading teams of 8-10 employees at each location. This role developed my skills in building strong teams, enhancing customer experiences, and effectively managing staff performance. It also laid the groundwork for my ability to communicate clearly across diverse teams and nurture individual growth.
 
 ### Assembly Line Operations Management
 
-As Manager at SkyLine, I led an assembly-line facility with approximately 90 team members. My responsibilities included optimizing production workflows and ensuring operational efficiency. A unique aspect of this role involved implementing programs to train and support employees with disabilities—both cognitive and physical—successfully fostering an inclusive workplace and integrating diverse talent into high-performing teams.
+As a manager at SkyLine, I supervised an assembly-line facility with around 90 employees. I focused on improving efficiency and optimizing production processes. A particularly meaningful aspect was developing programs that supported employees with cognitive and physical disabilities, successfully creating an inclusive and high-performing work environment.
 
-### Mobile Development Team Leadership
+### Development Team Leadership
 
-At Answers.com, I established and led the company's first mobile development team, directly managing eight developers. This strategic initiative significantly enhanced the company’s early adaptation to mobile technologies, enabling rapid growth in mobile web traffic. This role strengthened my capability to innovate, build technology solutions, and collaborate cross-departmentally to align technology initiatives with overall business objectives.
+At Answers.com, I launched and managed the company's first mobile development team, leading eight developers. This move positioned the company ahead of competitors by quickly embracing mobile technology and significantly boosting mobile web traffic. Here, I strengthened my skills in innovation, building user-friendly tech solutions, and collaborating across departments to ensure technology supported overall business goals.
 
 ### Chief Technology Officer
 
-As CTO of Enroll123, a health insurance technology startup, I oversaw all technological operations, compliance initiatives (including HIPAA and HiTECH standards), and development strategies to effectively integrate Affordable Care Act solutions for health providers. My role required extensive coordination, strategic planning, and decisive leadership in a highly regulated environment, cementing my capability to lead high-impact technology initiatives within complex industries.
+As CTO at Enroll123, a health insurance technology startup, I managed all technology operations, ensured compliance with key regulations (including HIPAA and HiTECH), and developed strategies to deliver solutions aligned with the Affordable Care Act. This leadership role required strategic planning, meticulous coordination, and decisive action within a complex regulatory environment, further solidifying my ability to lead critical technology initiatives in challenging industries.
 
-My GitHub Organizations
-===
+## My GitHub Organizations
 
 I created and manage the following GitHub Orgs:
 
@@ -81,8 +100,7 @@ I created and manage the following GitHub Orgs:
 | <img src="https://avatars.githubusercontent.com/u/151680118?s=64&v=4" height="16" width="16"> | [OpenSFCC](https://github.com/openscc) | Main Contributor | Open Source SFCC Projects |
 | <img src="https://avatars.githubusercontent.com/u/93822465?s=64&v=4" height="16" width="16"> | [Police Scorecard](https://github.com/policescorecard) | Main Contributor | Evaluates police departments based on quantitative data |
 
-Primary Contributions
-===
+## Primary Contributions
 
 I was the main contributor to multiple projects on the following GitHub orgs:
 
