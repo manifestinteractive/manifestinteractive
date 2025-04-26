@@ -8,7 +8,7 @@
 
 My career has spanned everything from leading retail teams to building dev teams and architecting complex systems. I don’t just write code, I design solutions that align technology with real business needs. With experience in hands-on development, team leadership, and freelance consulting, I bring a well-rounded, practical approach to every project.
 
-[![Website](https://img.shields.io/badge/Website-169BD7.svg?logo=samsclub&logoColor=white&style=for-the-badge "Website")](https://peterschmalfeldt.com) [![Resume](https://img.shields.io/badge/Resume-169BD7.svg?logo=googledocs&logoColor=white&style=for-the-badge "Resume")](https://resume.peterschmalfeldt.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-169BD7.svg?logo=googledocs&logoColor=white&style=for-the-badge "LinkedIn")](https://www.linkedin.com/in/peter-schmalfeldt/)
+[![Website](https://img.shields.io/badge/Website-169BD7.svg?logo=samsclub&logoColor=white&style=for-the-badge "Website")](https://peterschmalfeldt.com) [![Resume](https://img.shields.io/badge/Resume-169BD7.svg?logo=googledocs&logoColor=white&style=for-the-badge "Resume")](https://resume.peterschmalfeldt.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-169BD7.svg?logo=googledocs&logoColor=white&style=for-the-badge "LinkedIn")](https://www.linkedin.com/in/peter-schmalfeldt/) [![Projects](https://img.shields.io/badge/Projects-169BD7.svg?logo=githubsponsors&logoColor=white&style=for-the-badge "Projects")](https://www.linkedin.com/in/peter-schmalfeldt/details/projects/)
 
 ## 🌟 Skills
 
