@@ -1,6 +1,6 @@
 # Peter Schmalfeldt
 
-![personal-header](https://github.com/user-attachments/assets/8046671b-4064-487f-b01b-a79319cf33a4)
+[![Watch Video](https://github.com/user-attachments/assets/681a6b05-ca35-45d1-aaad-9c05cc38f7b9)](https://vimeo.com/1078541373/829083bd9a)
 
 ## About Me
 
