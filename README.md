@@ -90,6 +90,26 @@ At Answers.com, I launched and managed the company's first mobile development te
 
 As CTO at Enroll123, a health insurance technology startup, I managed all technology operations, ensured compliance with key regulations (including HIPAA and HiTECH), and developed strategies to deliver solutions aligned with the Affordable Care Act. This leadership role required strategic planning, meticulous coordination, and decisive action within a complex regulatory environment, further solidifying my ability to lead critical technology initiatives in challenging industries.
 
+## ⏳️ Experience in Action
+
+I’ve led technical projects for global brands, civic causes, and environmental movements, often in emerging spaces.
+
+### Google Jigsaw: User in Residence
+
+I was invited by Google’s Jigsaw team to consult as part of their “User in Residence” program, sharing insights on civic technology, public data accessibility, and responsible platform design. While details remain confidential, the collaboration reflected a strategic advisory role akin to the discovery phase of a Solutions Architect, supporting technology initiatives with global social impact.
+
+### Nike Skateboarding & Snowboarding
+
+As the Solution Architect and Full-Stack Developer, I built a custom ecommerce platform for Nike’s action sports brands, years before Shopify or Salesforce Commerce Cloud came to market. I designed everything from the database schema and CMS to global content management and caching systems, helping Nike scale a digital experience that reflected its global brand.
+
+### Civil Services: Open Data for Activism
+
+I founded Civil Services to make elected official data accessible, accurate, and API-ready for civic tech initiatives. With 400+ volunteers, we built a geolocation-based mapping platform used by activists to instantly connect with local, state, and federal representatives. The platform’s reliability and civic impact led to recognition by Google and widespread adoption during a pivotal time for civic engagement.
+
+### Gigoit.org: Giving Tech a Purpose
+
+Long before sustainability was trending, I co-founded Gigoit.org, a nonprofit platform that helped over half a million people give away unwanted items instead of sending them to landfills. Recognized by the U.S. EPA and featured in major publications, Gigoit diverted 60,000+ tons of waste per month at its peak. It remains one of the most impactful tech-for-good projects I’ve led.
+
 ## My GitHub Organizations
 
 I created and manage the following GitHub Orgs:
