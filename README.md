@@ -10,6 +10,11 @@ My career has spanned everything from leading retail teams to building dev teams
 
 [![Website](https://img.shields.io/badge/Website-169BD7.svg?logo=samsclub&logoColor=white&style=for-the-badge "Website")](https://peterschmalfeldt.com) [![Resume](https://img.shields.io/badge/Resume-169BD7.svg?logo=googledocs&logoColor=white&style=for-the-badge "Resume")](https://resume.peterschmalfeldt.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-169BD7.svg?logo=googledocs&logoColor=white&style=for-the-badge "LinkedIn")](https://www.linkedin.com/in/peter-schmalfeldt/) [![Projects](https://img.shields.io/badge/Projects-169BD7.svg?logo=githubsponsors&logoColor=white&style=for-the-badge "Projects")](https://www.linkedin.com/in/peter-schmalfeldt/details/projects/)
 
+- [X] [🌟 Skills](#-skills)
+- [X] [⭐️ Freelance Consulting](#%EF%B8%8F-freelance-consulting)
+- [X] [🎖️ Leadership Background](#%EF%B8%8F-leadership-background)
+- [X] [⏳️ Experience in Action](#%EF%B8%8F-experience-in-action)
+
 ## 🌟 Skills
 
 ✅ Full Stack Development
