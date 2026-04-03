@@ -4,133 +4,110 @@
 
 ## About Me
 
-**Senior Full-Stack Web Developer**
+**Senior Full-Stack Engineer**
 
-My career has spanned everything from leading retail teams to building dev teams and architecting complex systems. I don’t just write code, I design solutions that align technology with real business needs. With experience in hands-on development, team leadership, and freelance consulting, I bring a well-rounded, practical approach to every project.
+> Technical Lead, Solutions Architect, and AI Developer
+
+I help teams turn complex ideas into practical software. My background spans hands-on development, technical leadership, AI implementation, AI coding workflows, and consulting, so I can move from early strategy to production-ready systems without losing sight of business goals.
 
 [![Website](https://img.shields.io/badge/Website-169BD7.svg?logo=samsclub&logoColor=white&style=for-the-badge "Website")](https://peterschmalfeldt.com) [![Resume](https://img.shields.io/badge/Resume-169BD7.svg?logo=googledocs&logoColor=white&style=for-the-badge "Resume")](https://resume.peterschmalfeldt.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-169BD7.svg?logo=googledocs&logoColor=white&style=for-the-badge "LinkedIn")](https://www.linkedin.com/in/peter-schmalfeldt/) [![Projects](https://img.shields.io/badge/Projects-169BD7.svg?logo=githubsponsors&logoColor=white&style=for-the-badge "Projects")](https://www.linkedin.com/in/peter-schmalfeldt/details/projects/)
 
-- [X] [🌟 Skills](#-skills)
-- [X] [⭐️ Freelance Consulting](#%EF%B8%8F-freelance-consulting)
-- [X] [🎖️ Leadership Background](#%EF%B8%8F-leadership-background)
-- [X] [⏳️ Experience in Action](#%EF%B8%8F-experience-in-action)
+- [X] [Skills](#skills)
+- [X] [What I Do](#what-i-do)
+- [X] [Technical Leadership & Consulting](#technical-leadership--consulting)
+- [X] [Leadership Background](#leadership-background)
+- [X] [Experience in Action](#experience-in-action)
 
-## 🌟 Skills
+## Skills
 
-✅ Full Stack Development
+### Senior Full-Stack Engineer
 
-- API Integration
-- JavaScript
-- TypeScript
-- Node
-- Python
+As a Senior Full-Stack Engineer, I build scalable web applications and connected systems using JavaScript, React, Node.js, Vue.js, and Python, with a focus on performance, maintainability, and business value.
 
-✅ Artificial Intelligence (AI)
+### Technical Lead
 
-- Chatbots (Custom Built, Copilot Studio, Microsoft Teams, Slack)
-- Platforms (Azure OpenAI, Azure Foundry, Microsoft Copilot Studio, OpenCV, TensorFlow)
-- Skills (Machine Learning, Prompt Engineering, NLU, NLP, Model Tuning, Computer Vision)
+As a Technical Lead and Solutions Architect, I guide discovery, unblock teams, and design systems that can move from prototype to production. My work aligns technical decisions with business goals and delivery realities.
 
-✅ eCommerce Solutions
+### AI Developer
 
-- Custom Development
-- Salesforce Commerce Cloud Development
-- Shopify Development
+As an AI Developer, I build practical AI features, coding workflows, and automations using tools like OpenAI, Claude Code, Codex, GitHub Copilot, Azure OpenAI, and Microsoft Copilot Studio. I focus on helping teams work faster and products deliver more value.
 
-✅ Front-End Development
+## What I Do
 
-- Web Design (CSS, Scss, SaSS, Tailwind)
-- Frameworks (jQuery, Bootstrap, React, Next.js, Vue.js, Angular)
-- Standards (UI/UX Optimization, Accessibility, Performance)
+I specialize in full-stack application development, AI implementation, technical leadership, and ecommerce systems.
 
-✅ Back-End Development
+### Full-Stack Web Development
 
-- Custom Tooling (Docker, Bash, Shell Script)
-- Databases (MySQL, PostgreSQL, Redis)
-- DevOps (AWS, Azure, CircleCI, CI/CD, GitHub)
+I build complete, scalable, and high-performing applications. With expertise in JavaScript, React, Next.js, Node.js, Vue.js, and Python, I deliver strong user experiences on the front-end and reliable systems on the back-end.
 
-✅ Productivity Tooling
+### Ecommerce Development
 
-- Browser Extensions (Cross-Platform and Multi-Browser)
-- Dev Containers (VS Code and Docker Desktop)
-- VS Code Extensions (Productivity and Automation)
+I design ecommerce systems that grow with your business. With deep specialization in Salesforce Commerce Cloud and strong Shopify experience, I build integrations, improve performance, and connect the tools that support better operations and customer experiences.
 
-## ⭐️ Freelance Consulting
+### AI Integration & Development
 
-Over the years, I’ve partnered with companies of all sizes to help them move from idea to execution with clarity and confidence.
+I build practical AI tools for products and teams. From conversational interfaces and workflow automation to AI coding support, agents, skills, and prompt design, I help teams adopt tools like Codex, Claude Code, and GitHub Copilot with clarity and execution.
 
-### Development Team Foundation
+### Technical Consulting & Modernization
 
-Startups often bring me in to lay the foundation for their development teams. I help set up effective workflows, document processes, streamline onboarding, and create a strong technical culture from day one. I typically take on a hands-on role early, then transition into an advisor as the internal team grows and takes ownership.
+I help teams modernize legacy systems, shape new platforms, and make better technical decisions. Whether the work involves cloud applications, integrations, or delivery practices, I bring practical guidance that helps teams move forward.
+
+## Technical Leadership & Consulting
+
+I partner with companies that need hands-on leadership, faster execution, and clearer technical direction.
+
+### Engineering Team Foundation
+
+Startups and growing teams bring me in to establish workflows, documentation, delivery habits, and technical standards. I work hands-on early, help unblock the team, and create a foundation the internal team can take forward.
 
 ### Custom Application Development
 
-When a client has a great idea but needs help building it, I provide full-cycle support. From discovery and planning to design, development, and deployment, I guide the entire process. With full-stack expertise, I help transform concepts into working, scalable web applications, guiding projects through key milestones in a practical, collaborative way.
+When a client has a strong product idea but needs senior execution, I help shape the roadmap and build the system. From discovery and prototyping to architecture, development, and launch, I guide the work in a practical, collaborative way.
 
 ### Solutions Architect
 
-For companies facing complex technical or organizational challenges, I step in as a Solutions Architect. I lead discovery through empathy interviews, assess team dynamics, and map out clear technical strategies. My focus is on aligning departments, improving communication, and designing cross-functional solutions that are both practical and effective.
+For teams facing complex technical or organizational challenges, I step in as a Solutions Architect. I lead discovery, clarify tradeoffs, and map technical strategy across product, design, and engineering so teams can move forward with confidence.
 
-### Rapid Prototyping & Innovation
+### Prototype to Production
 
-When clients need to move fast, I offer rapid prototyping services to help them test and validate ideas quickly. Through fast design cycles, real-time feedback, and iterative development, I help companies experiment efficiently. This process turns early concepts into actionable, tested solutions that accelerate innovation and reduce risk.
+When speed matters, I help teams move from prototype to production without losing sight of scale, security, or maintainability. Fast iteration, direct feedback, and clear priorities help turn early concepts into working systems.
 
-## 🎖️ Leadership Background
+## Leadership Background
 
-My early career experiences shaped my leadership style and professional strengths.
+My leadership style was shaped by roles that demanded accountability, empathy, and operational clarity.
 
 ### Retail Store Management
 
-Early on, I managed multiple retail stores, leading teams of 8-10 employees at each location. This role developed my skills in building strong teams, enhancing customer experiences, and effectively managing staff performance. It also laid the groundwork for my ability to communicate clearly across diverse teams and nurture individual growth.
+Early on, I managed multiple retail stores, leading teams of 8-10 employees in fast-paced environments. That experience taught me how to coach people, improve customer outcomes, and keep teams aligned under pressure.
 
 ### Assembly Line Operations Management
 
-As a manager at SkyLine, I supervised an assembly-line facility with around 90 employees. I focused on improving efficiency and optimizing production processes. A particularly meaningful aspect was developing programs that supported employees with cognitive and physical disabilities, successfully creating an inclusive and high-performing work environment.
+At SkyLine, I supervised an assembly-line facility of around 90 employees, focusing on throughput, process improvement, and team support. Building inclusive programs for employees with cognitive and physical disabilities deepened my commitment to people-centered leadership.
 
 ### Development Team Leadership
 
-At Answers.com, I launched and managed the company's first mobile development team, leading eight developers. This move positioned the company ahead of competitors by quickly embracing mobile technology and significantly boosting mobile web traffic. Here, I strengthened my skills in innovation, building user-friendly tech solutions, and collaborating across departments to ensure technology supported overall business goals.
+At Answers.com, I launched and led the company’s first mobile development team, helping the business move early on mobile and significantly grow traffic. It sharpened my ability to build teams, prototype quickly, and align engineering work with product goals.
 
 ### Chief Technology Officer
 
-As CTO at Enroll123, a health insurance technology startup, I managed all technology operations, ensured compliance with key regulations (including HIPAA and HiTECH), and developed strategies to deliver solutions aligned with the Affordable Care Act. This leadership role required strategic planning, meticulous coordination, and decisive action within a complex regulatory environment, further solidifying my ability to lead critical technology initiatives in challenging industries.
+As CTO at Enroll123, I led technology strategy and delivery in a regulated health insurance startup, including HIPAA and HiTECH compliance. The role strengthened my ability to balance architecture, risk, execution, and cross-functional decision-making in high-stakes environments.
 
-## ⏳️ Experience in Action
+## Experience in Action
 
-I’ve led technical projects for global brands, civic causes, and environmental movements, often in emerging spaces.
+I’ve led work across ecommerce, civic tech, nonprofit platforms, and mission-driven products.
 
 ### Google Jigsaw: User in Residence
 
-I was invited by Google’s Jigsaw team to consult as part of their “User in Residence” program, sharing insights on civic technology, public data accessibility, and responsible platform design. While details remain confidential, the collaboration reflected a strategic advisory role akin to the discovery phase of a Solutions Architect, supporting technology initiatives with global social impact.
+I was invited to consult through Google’s “User in Residence” program, sharing insights on civic technology, public data accessibility, and responsible platform design. The work reflected the kind of strategic, high-context discovery a Solutions Architect brings to complex initiatives.
 
 ### Nike Skateboarding & Snowboarding
 
-As the Solution Architect and Full-Stack Developer, I built a custom ecommerce platform for Nike’s action sports brands, years before Shopify or Salesforce Commerce Cloud came to market. I designed everything from the database schema and CMS to global content management and caching systems, helping Nike scale a digital experience that reflected its global brand.
+As the Solution Architect and Full-Stack Developer, I built a custom platform for Nike’s action sports brands years before modern ecommerce platforms were standard. I designed the data model, CMS, and caching systems that helped the experience scale globally.
 
 ### Civil Services: Open Data for Activism
 
-I founded Civil Services to make elected official data accessible, accurate, and API-ready for civic tech initiatives. With 400+ volunteers, we built a geolocation-based mapping platform used by activists to instantly connect with local, state, and federal representatives. The platform’s reliability and civic impact led to recognition by Google and widespread adoption during a pivotal time for civic engagement.
+I founded Civil Services to make elected official data accessible, accurate, and API-ready for civic tech. With 400+ volunteers, we built a geolocation platform that helped activists connect with representatives by turning complex public data into reliable software.
 
 ### Gigoit.org: Giving Tech a Purpose
 
-Long before sustainability was trending, I co-founded Gigoit.org, a nonprofit platform that helped over half a million people give away unwanted items instead of sending them to landfills. Recognized by the U.S. EPA and featured in major publications, Gigoit diverted 60,000+ tons of waste per month at its peak. It remains one of the most impactful tech-for-good projects I’ve led.
-
-## My GitHub Organizations
-
-I created and manage the following GitHub Orgs:
-
-|  | Organization | Role | Description |
-| :-: | :-- | :-- | :-- |
-| <img src="https://avatars.githubusercontent.com/u/106190714?s=64&v=4" height="16" width="16"> | [SFCC DevOps](https://github.com/sfccdevops) | Main Contributor | CLI Applications, VS Code Extensions and Browser Extensions. |
-| <img src="https://avatars.githubusercontent.com/u/151680118?s=64&v=4" height="16" width="16"> | [OpenSFCC](https://github.com/openscc) | Main Contributor | Open Source SFCC Projects |
-| <img src="https://avatars.githubusercontent.com/u/93822465?s=64&v=4" height="16" width="16"> | [Police Scorecard](https://github.com/policescorecard) | Main Contributor | Evaluates police departments based on quantitative data |
-
-## Primary Contributions
-
-I was the main contributor to multiple projects on the following GitHub orgs:
-
-|  | Organization | Role | Description |
-| :-: | :-- | :-- | :-- |
-| <img src="https://avatars2.githubusercontent.com/u/22258464?s=64&v=4" height="16" width="16"> | [StayWoke](https://github.com/staywoke) | Lead Engineer | Activism Platform Tools |
-| <img src="https://avatars1.githubusercontent.com/u/19274654?s=64&v=4" height="16" width="16"> | [CampaignZero](https://github.com/campaignzero) | Lead Engineer | Activism Platform Tools |
-| <img src="https://avatars.githubusercontent.com/u/10136042?s=64&v=4" height="16" width="16"> | [NOIHD](https://github.com/noihd) | Lead Engineer | Custom DevOps Tooling |
+I co-founded Gigoit.org, a nonprofit platform that helped more than half a million people keep unwanted items out of landfills. Recognized by the U.S. EPA and featured in major publications, it remains one of the clearest examples of software with measurable real-world impact.
