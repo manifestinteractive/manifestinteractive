@@ -2,9 +2,9 @@
 
 [![Watch Video](https://github.com/user-attachments/assets/681a6b05-ca35-45d1-aaad-9c05cc38f7b9)](https://vimeo.com/1078541373/829083bd9a)
 
-## About Me
+## Senior Full-Stack Engineer
 
-### Technical Lead, Solutions Architect, and AI Developer
+❇ **Technical Lead, Solutions Architect, and AI Developer**
 
 I help teams turn complex ideas into practical software. My background spans hands-on development, technical leadership, AI implementation, AI coding workflows, and consulting, so I can move from early strategy to production-ready systems without losing sight of business goals.
 
