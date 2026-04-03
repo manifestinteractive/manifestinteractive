@@ -1,6 +1,6 @@
 # Peter Schmalfeldt
 
-[![Watch Video](https://github.com/user-attachments/assets/681a6b05-ca35-45d1-aaad-9c05cc38f7b9)](https://vimeo.com/1078541373/829083bd9a)
+[![Watch Video](https://github.com/user-attachments/assets/3ac803f1-9681-4561-8069-2e533da9dfdf)](https://vimeo.com/1078541373/829083bd9a)
 
 ## Senior Full-Stack Engineer
 
